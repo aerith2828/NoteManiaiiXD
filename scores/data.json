@@ -1,0 +1,18 @@
+{
+    "Angelic Layer": {
+        "accuracy": 91.77777777777779,
+        "max_combo": 224,
+        "avg_err": -1.263377871066866,
+        "perfect": 385,
+        "great": 99,
+        "miss": 11
+    },
+    "Freedom Dive": {
+        "accuracy": 88.28042328042328,
+        "max_combo": 155,
+        "avg_err": 0.20844786523902745,
+        "perfect": 263,
+        "great": 101,
+        "miss": 14
+    }
+}
