@@ -1,5 +1,6 @@
 # NoteMania iiXD
 
+Projekt na studia.
 Gra zręcznościowo-rytmiczna skupiona wokół testowania ludzkiego czasu reakcji oraz dobrej zabawy. Inspirowana japońską serią gier beatmania IIDX.
 # Krótko co i jak
 Gra wymaga zainstalowania python3 oraz pygame. Grę można otworzyć otwierając katalog w wierszu poleceń i wpisując ``python .\main.py``, gra polega na wciskaniu odpowiednich klawiszy w rytm muzyki oraz lecących z góry note'ów. Kolejność przycisków lewo-prawo to ``A S D SPACJA J K L``. Muzykę wybieramy przyciskiem ``Enter``.  Gra do wyświetlania note'ów wykorzystuje specjalny format BMS.
